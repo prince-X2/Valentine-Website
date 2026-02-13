@@ -21,7 +21,8 @@ body {
   align-items: center;
   justify-content: center;
   will-change: scroll-position;
-  cursor: url("./assets/red-heart.png"), pointer;
+  /* Inline SVG data URL for a small red heart cursor as a fallback when red-heart.png is missing */
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='32' height='32' viewBox='0 0 24 24'><path fill='%23ff4d8d' d='M12 21s-7.5-4.9-9.2-8.1C0.9 9.7 3 6 6 6c1.7 0 3 .9 4 2 1-1.1 2.3-2 4-2 3 0 5.1 3.7 3.2 6.9C19.5 16.1 12 21 12 21z'/></svg>"), pointer;
 }
 
 .valentine-root {
