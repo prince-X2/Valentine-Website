@@ -1,0 +1,115 @@
+{
+  "title": "Valentine's Day",
+  "message": "Happy Valentine's Day!",
+  "colors": {
+    "primary": "#ff1744",
+    "secondary": "#ffb3ba"
+  },
+  "names": {
+    "sender": "Prince",
+    "receiver": "Vaishavi"
+  },
+  "content": {
+    "title": "Will you be my Valentine?",
+    "yesButtonText": "YES! ❤️",
+    "successMessage": "Yay! You said YES! 🎉",
+    "successSubtitle": "I'm the happiest person alive!",
+    "giftsTitle": "Gifts from Your Valentine 🎁",
+    "songsTitle": "Our Playlist 🎵",
+    "photosTitle": "Our Memories 📸",
+    "letterTitle": "A Letter from Your Heart",
+    "prosConsTitle": "Why You Should Be My Valentine",
+    "prosConsSubtitle": "There are literally no cons!"
+  },
+  "media": {
+    "mainBearGif": "/assets/rose-bear.gif",
+    "loveYouBearGif": "/assets/love-you-bear.gif",
+    "childGif": "/src/assets/dudu-dudu-angry.gif",
+    "consGif": "/src/assets/dudu-dudu-angry.gif",
+    "envelopeSeal": "💌",
+    "leftButton": "/assets/left-button.png",
+    "rightButton": "/assets/right-button.png"
+  },
+  "gifts": {
+    "gift2": "/assets/gift/gift2.jpg",
+    "gift3": "/assets/gift/gift3.jpg"
+  },
+  "navigation": {
+    "backToGifts": "Open Gifts",
+    "backToLove": "Back"
+  },
+
+  "couplePhotos": [
+    {
+      "image": "src/assets/couple_photo/FirstDate.jpg",
+      "caption": "Our first Date together 💕"
+    },
+    {
+      "image": "src/assets/couple_photo/FirstWalk.jpg",
+      "caption": "Our First Morning Walk😊"
+    },
+    {
+      "image": "src/assets/couple_photo/FirstBikeRide.jpg",
+      "caption": "Our First Bike Ride💑"
+    },
+    {
+      "image" : "src/assets/couple_photo/CarRide.jpg",
+      "caption" :"Our First Car Ride😊" 
+    },
+    {
+      "image" : "src/assets/couple_photo/ChibbyUs.jpg",
+      "caption" :"Chibby Us😊" 
+    },
+    {
+      "image" : "src/assets/couple_photo/HappyUsalone.jpg",
+      "caption" :"Happy Us Alone💑" 
+    }
+  ],
+  "letter": {
+    "title": "My Dear",
+    "content": [
+      "Every day with you is a blessing I never knew I needed. Your smile brightens my darkest days, and your presence makes everything feel right.",
+      "Thank you for being patient with me, for understanding my dreams, and for never giving up on us. You are my greatest adventure and my safest harbor.",
+      "I love you more than words could ever express. You are my favorite person, my best friend, and the love of my life."
+    ],
+    "signature": "Forever yours ❤️"
+  },
+  "songs": [
+    {
+      "title": "Love Song #1",
+      "artist": "Artist Name",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+    },
+    {
+      "title": "Love Song #2",
+      "artist": "Artist Name",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+    }
+  ],
+  "prosCons": [
+   {
+      "gif": "/src/assets/cook-bear.gif",
+      "text": "I'll cook your fav food like it's my love language 🍳"
+    },
+    {
+      "gif": "/src/assets/comfort-bear.gif", 
+      "text": "Unlimited Princess Treatment With Love and Care"
+    },
+    {
+      "gif": "/src/assets/cute-bear.gif",
+      "text": "I listen… like actually listen To your yap yap..."
+    },
+    {
+      "gif": "/src/assets/kiss-bears.gif",
+      "text": "Unlimited hugs & kisses (non-negotiable 😏)"
+    },
+    {
+      "gif": "/src/assets/photo-bear.gif",
+      "text": "Your personal photographer for all the cute moments 📸"
+    },
+    {
+      "gif": "/src/assets/music-bear.gif",
+      "text": "Live singing performances… just for you 🎶😉"
+    }
+  ]
+}
